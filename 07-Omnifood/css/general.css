@@ -58,6 +58,7 @@ html {
 
   /* percentage of user's browser font size settings */
   font-size: 62.5%;
+  /* scroll-behavior: smooth; */
 }
 
 body {
